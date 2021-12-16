@@ -1,0 +1,14 @@
+.button-show {
+
+	background-color: black;
+	color: whitesmoke;
+	border-radius: 4px;
+	padding: 20px;
+	font-weight: bold;
+	margin-top: 500px;
+	flex-grow: 1;
+	margin: 10px 32px;
+}
+.button-show:hover {
+	background-color: rgb(70, 70, 70);
+}
